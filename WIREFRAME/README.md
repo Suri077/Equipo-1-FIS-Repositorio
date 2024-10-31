@@ -7,7 +7,7 @@ Se desarrolló el [wareframe](https://www.figma.com/design/YT4HiCFBc4AuxOjEfvL3R
 figma(herramienta de diseño), el cual tras ideas dentro de el sprint y del analisis para su mejor diseño se fue creando la estructura de la interfase 
 
 ## Wareframe
-![DMain](/images/picture.jpg)
+![DMain](Main.png)
 
 
 #**CORRESPONDECIA CON LOS REQUERIMIENTOS**
